@@ -1,0 +1,70 @@
+@media only screen and (max-width:992px){
+
+a.cta-btn {
+  font-size: 17px;
+  width: 166px;
+  height: 33px;
+  margin-top: 51px;
+}
+    .search-form input[type="search"] {
+    font-size: 13px;
+}
+    .search-form input[type="submit"] {
+    font-size: 13px;
+}
+    nav ul li{
+        text-align: center;
+    }
+}
+@media only screen and (max-width:768px){
+
+a.cta-btn {
+    width: 319px;
+    height: 58px;
+    color: 
+#fff;
+display: block;
+background:
+    #007bff;
+    border-radius: 5px;
+    margin-top: 11px;
+    text-align: center;
+    font-size: 28px;
+    text-transform: uppercase;
+    line-height: 2;
+    font-weight: 500;
+}
+}
+@media only screen and (max-width:575px){
+
+    .header-top ul li:first-child{
+        margin-left: 0px;
+    }
+    .header-top{
+        display: block;
+        text-align: center;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
